@@ -10,3 +10,6 @@ Write a program that finds the squares of two numbers and prints their sum.
 
 ## Task number 5
 Output the square of an integer
+
+## Task number 6
+Given a natural number, print its last digit.
