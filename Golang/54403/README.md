@@ -16,3 +16,6 @@ Given a natural number, print its last digit.
 
 ## Task number 7
 Given a non-negative integer. Find the number of tens (that is, the second digit from the right).
+
+## Task number 8
+The hour hand has turned d degrees since the beginning of the day. Determine how many whole hours h and whole minutes m are now.
