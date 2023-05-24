@@ -13,3 +13,6 @@ Output the square of an integer
 
 ## Task number 6
 Given a natural number, print its last digit.
+
+## Task number 7
+Given a non-negative integer. Find the number of tens (that is, the second digit from the right).
