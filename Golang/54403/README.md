@@ -7,3 +7,6 @@ Write a program that sequentially performs the following operations with the inp
 
 ## Task number 4
 Write a program that finds the squares of two numbers and prints their sum.
+
+## Task number 5
+Output the square of an integer
